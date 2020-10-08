@@ -1,2 +1,2 @@
 # Algoritmos
-Exercícios de algoritmos feitos no Visualg
+Exercícios de algoritmos do curso de Lógica de Programação, oferecido pelo professor Gustavo Guanabara
